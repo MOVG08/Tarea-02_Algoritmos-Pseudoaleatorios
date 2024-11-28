@@ -22,7 +22,7 @@ x0 = 5   # Semilla
 a = 7  # Multiplicador
 c = 9  # Constante aditiva
 m = 11  # Módulo
-n = 20  # Cantidad de números a generar
+n = 15  # Cantidad de números a generar
 
 # Generar números pseudoaleatorios
 aleatorios = metodo_congruencial_lineal(x0, a, c, m, n)
